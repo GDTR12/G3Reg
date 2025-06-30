@@ -19,7 +19,7 @@ association:
   num_clusters: 50 # maximum number of clusters
   num_planes: 50 # maximum number of planes
   num_lines: 50 # maximum number of lines
-  topK: 20 # topk association
+  topK: 50 # topk association
 
 vertex:
   type: "point" # gaussian, point_ratio, ellipse, point
